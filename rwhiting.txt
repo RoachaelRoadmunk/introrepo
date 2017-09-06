@@ -12,5 +12,5 @@ commit for rebase later.
 
 commit for rebase later (2).
 
-x + y = k;
+x / y = k;
 
